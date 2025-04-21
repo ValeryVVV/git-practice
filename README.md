@@ -1,3 +1,4 @@
 # First project-practice git
 
-Эта строка добавлена в main ветке
+This line added inside main ветке
+This line added inside feature/update-readme ветке
